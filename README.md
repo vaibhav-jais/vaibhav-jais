@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Jaiswal</h1>
-<h3 align="center">A passionate in emerging and dynamic field of Machine Learning, Deep Learning, and Computer Vision.</h3>
+<h3 align="center">I'm a recent graduate with an M.Sc. degree in [Your Field of Study] from the University of Siegen. During my studies, I specialized in Artificial Intelligence, Deep Learning, Computer Vision, and Machine Learning. My passion lies in leveraging AI to develop cutting-edge technologies that make a positive impact.I am dedicated to ongoing personal and professional development. I actively seek opportunities to expand my expertise in these areas through undertaking new projects, staying abreast of industry developments through relevant publications, and fostering collaborative efforts with peers and professionals in the field.</h3>
 
 - 🌱 I’m currently studying Masters in Mechatronics at University of Siegen.
 - 👯 I’m looking to collaborate on  I'm open to collaborating on Machine Learning, Deep Learning and Computer Vision based Projects.
