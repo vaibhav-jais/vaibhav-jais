@@ -17,7 +17,8 @@
 - # Here's the list of my project repositories
 -  Image Denoising using Autoencoders with skip connections
 -  Algorithm ranking across metrics
--  Image Classification using CNN 
+-  Image Classification using CNN
+-  Pick and Place Operation on Lego Mindstrom EV3 Manipulator robot
 <!---
 vaibhav-jais/vaibhav-jais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
