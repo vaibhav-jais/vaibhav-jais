@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Jaiswal</h1>
 <h3 align="center">A passionate in emerging and dynamic field of Machine Learning, Deep Learning, and Computer Vision.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-jais&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-jais" /> </p>
-
 - 🌱 I’m currently studying Masters in Mechatronics at University of Siegen.
 - 👯 I’m looking to collaborate on  I'm open to collaborating on Machine Learning, Deep Learning and Computer Vision based Projects.
 - 🔭 I’m currently working on
@@ -23,3 +21,5 @@
 vaibhav-jais/vaibhav-jais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-jais&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-jais" /> </p>
