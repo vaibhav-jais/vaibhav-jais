@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-jais&show_icons=true&locale=en" alt="vaibhav-jais" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-jais&" alt="vaibhav-jais" /></p>
+
 - # Below are the list of projects that I have worked on
 -  Image Denoising using Autoencoders with skip connections
 -  Algorithm ranking across metrics
