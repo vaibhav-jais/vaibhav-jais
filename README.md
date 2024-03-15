@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Jaiswal</h1>
-<h3 align="center">I'm a recent graduate with an M.Sc. degree in [Your Field of Study] from the University of Siegen. During my studies, I specialized in Artificial Intelligence, Deep Learning, Computer Vision, and Machine Learning. My passion lies in leveraging AI to develop cutting-edge technologies that make a positive impact.I am dedicated to ongoing personal and professional development. I actively seek opportunities to expand my expertise in these areas through undertaking new projects, staying abreast of industry developments through relevant publications, and fostering collaborative efforts with peers and professionals in the field.</h3>
+I'm a recent graduate with an M.Sc. degree in Mechatronics from the University of Siegen. During my studies, I specialized in Artificial Intelligence, Deep Learning, Computer Vision, and Machine Learning. My passion lies in leveraging AI to develop cutting-edge technologies that make a positive impact. I am dedicated to ongoing personal and professional development. I actively seek opportunities to expand my expertise in these areas through undertaking new projects, staying abreast of industry developments through relevant publications, and fostering collaborative efforts with peers and professionals in the field.
+</p>
 
-- 🌱 I’m currently studying Masters in Mechatronics at University of Siegen.
 - 👯 I’m looking to collaborate on  I'm open to collaborating on Machine Learning, Deep Learning and Computer Vision based Projects.
-- 🔭 I’m currently working on
-- 📫 I love connecting with new people, you can reach me at **vaibhav572724@gmail.com**
+- ✉ I love connecting with new people, you can reach me at **vaibhav572724@gmail.com**
+
 
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" height="30" width="40" /></a>
 </p>
