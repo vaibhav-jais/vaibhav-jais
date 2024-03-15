@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Jaiswal</h1>
 <h3 align="center">A passionate in emerging and dynamic field of Machine Learning, Deep Learning, and Computer Vision.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-jais&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-jais" /> </p>
 
