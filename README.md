@@ -12,7 +12,7 @@
 - <h3 align="left">Linkedin: <a href="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills and Libraries:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -58,12 +58,17 @@
  ### Cloud
   
  <p float="left">
-   
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
-  
  </p>
+
+ ### DevOps Tools
+
+<p float="left">
+  <img src="https://kubernetes.io/images/wheel.svg" alt="Kubernetes" width="100" height="100"/>
+</p>
+
  
 # Project repositories
 -  Image Denoising using Autoencoders with skip connections
