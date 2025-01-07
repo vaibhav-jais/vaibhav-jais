@@ -12,7 +12,7 @@
 - <h3 align="left">Linkedin: <a href="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-jaiswal-427532143/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+## Languages and Frameworks
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -55,7 +55,7 @@
   </a>
  </p>
 
- ### Cloud
+ ## Cloud
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -63,7 +63,7 @@
   </a>
  </p>
 
- ### DevOps Tools
+ ## DevOps Tools
 
 <p float="left">
   <img src="https://kubernetes.io/images/wheel.svg" alt="Kubernetes" width="100" height="100"/>
