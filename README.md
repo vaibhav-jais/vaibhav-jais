@@ -61,7 +61,11 @@
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
- </p>
+   
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://azure.microsoft.com/svghandler/azure-1-svg/" height="50" alt="Azure Logo"/>
+  </a>
+</p>
 
  ## DevOps Tools
 
